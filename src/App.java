@@ -5,6 +5,6 @@ public class App {
     }
 
     public static void Math (int x, int y) {
-        System.out.println(x * y);
+        System.out.println(x + y);
     }
 }
